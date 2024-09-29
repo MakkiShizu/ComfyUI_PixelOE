@@ -1,5 +1,7 @@
 # A ComfyUI node for Pixelate image.
 
+## **When I was preparing to upload it to the ComfyUI Maneger, I found out that someone had already written it (so I didn't submit it [ComfyUI-PixelOE-Wrapper](https://github.com/A4P7J1N7M05OT/ComfyUI-PixelOE-Wrapper.git)**
+
 The comfyui node implementation for this [project](https://github.com/KohakuBlueleaf/PixelOE).
 
 **Simply put, Pixelate the image**
